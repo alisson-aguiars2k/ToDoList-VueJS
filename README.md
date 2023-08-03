@@ -1,4 +1,4 @@
-# To Do List.
+# To Do List. 📝
 ![](./src/assets/images/tasks.png)
 ![](./src/assets/images/form.png)
 ![](./src/assets/images/todolist.png)
@@ -17,7 +17,6 @@
  <img  align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"  heigth="30" width="40"alt="Vue.js">
    
 </div>
-<br>
 
 ### Stylization Language;
 
