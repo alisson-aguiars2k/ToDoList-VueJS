@@ -1,7 +1,11 @@
 # To Do List. 📝
+## Tasks
 ![](./src/assets/images/tasks.png)
+## Form
 ![](./src/assets/images/form.png)
+## List
 ![](./src/assets/images/todolist.png)
+## Modal
 ![](./src/assets/images/modal.png)
 
 ## Project description:
